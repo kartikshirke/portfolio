@@ -1898,8 +1898,8 @@ pre code {
 }
 
 .profile {
-  width:26%;
-  border-radius: 50%;
+  width:25%;
+  border-radius: 6%;
 }
 @media (max-width: 575.98px) {
   .profile {
